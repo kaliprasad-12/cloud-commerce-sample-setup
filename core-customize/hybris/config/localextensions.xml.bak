@@ -89,7 +89,7 @@
 	  <extension name= 'integrationbackoffice' />
 	  <extension name= 'integrationmonitoringbackoffice' />
 	  <extension name= 'outboundsyncbackoffice' />
-	<!--  <extension name= 'azurecloudhotfolder' /> -->
+	  <extension name= 'azurecloudhotfolder' />
 	  <extension name= 'xyformsbackoffice' />
 	  <extension name= 'xyformssamples' />
 	  <extension name= 'xyformsstorefrontcommons' />
